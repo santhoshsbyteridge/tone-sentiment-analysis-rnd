@@ -4,7 +4,7 @@
 This project explores sentiment analysis using the tone of audio, leveraging **Amazon Chime SDK** and **machine learning models** including **Support Vector Machines (SVM), CM-BERT, and Wav2Vec2** for sentiment classification. The research was guided by multiple reference studies and implementations.
 
 ## Objectives
-- Do a sentiment analysis using **Amazon Chime SDK**.
+- Do a sentiment analysis using **Amazon Chime SDK**. (Standalone)
 - Process and analyze tonal variations in audio.
 - Utilize **SVM, CM-BERT, and Wav2Vec2** models for sentiment classification.
 - Classify sentiments into predefined categories (e.g., Positive, Negative, Neutral).
